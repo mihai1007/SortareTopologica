@@ -262,3 +262,6 @@ def add(a, b)->int:
 
 def afisare():
     print("Sa ti o iei in buci")
+
+def admin():
+    print("Fa ma administrator")
