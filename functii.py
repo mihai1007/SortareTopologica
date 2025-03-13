@@ -256,3 +256,6 @@ def elemente_minimale_ajutor(graf):
         print("nu exista elemente minimale")
     else:
         return count, lista_elemente_minimale
+
+def add(a, b)->int:
+    return a+b
