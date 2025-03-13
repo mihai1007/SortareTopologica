@@ -5,6 +5,7 @@ def determinareMatrice(lista,cardinal):
     for elem in lista:
         a=elem[0]
         b=elem[1]
+        #condurache gabriel
         M[a-1][b-1]=1
     return M
 
