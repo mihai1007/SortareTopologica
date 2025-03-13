@@ -259,3 +259,6 @@ def elemente_minimale_ajutor(graf):
 
 def add(a, b)->int:
     return a+b
+
+def afisare():
+    print("Sa ti o iei in buci")
